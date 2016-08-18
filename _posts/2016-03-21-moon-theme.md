@@ -1,16 +1,27 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
+
+title:  "Moon Jekyll Theme"	#blog的标题，页眉标题。
+
 date:   2016-04-06
+
 excerpt: "Minimal, one column Jekyll theme for your blog."
-project: true
-tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
-comments: true
+
+project: false
+#是否显示在项目（project）里。
+#如果设置了这个属性，要么显示在项目里，要么显示在标签列里。
+#不会再Posts里显示。
+
+#tag:	#设置并添加标签
+#- jekyll 
+#- moon
+#- blog
+#- about
+#- theme
+
+# feature: /assets/img/imageName.png    #设置当前博客的题头背景图
+
+comments: false	#评论
 ---
 
 ![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
