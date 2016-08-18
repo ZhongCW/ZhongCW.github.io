@@ -1,14 +1,14 @@
 # Site
 title:              ZhongCW   #网页标题
-bio:                '岁月不饶人，我亦未曾饶过岁月。' #主页的简单介绍
-description:        "主页描述" #about里的描述。以及其他子网页的描述。
+bio:                'Anything one man can imageine,other men can make real.' #主页的简单介绍
+description:        "ZhongCW blog,use Jekyll and github pages." #对于该网站的描述
 reading_time:       true  #是否显示阅读时间
 words_per_minute:   200   #默认阅读时间
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://ZhongCW.github.io
+url:                http://localhost:4000   #http://localhost:4000 || http://zhongcw.github.io
 
 # Jekyll
 permalink:          /:title/
