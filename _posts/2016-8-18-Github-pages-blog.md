@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "使用Github pages搭建个人博客"
+title:  "使用Github pages搭建个人博客步骤"
 date:   2016-08-18
 excerpt: "记录我使用Github pages搭建个人博客的步骤"
 tag: [blog,about,github pages]	#设置并添加标签
